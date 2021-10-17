@@ -18,5 +18,5 @@ V1.0: El proyecto ha sido creado y contiene carpetas con información simple.
 ## Autor ✒️
 
 
-* **Alex García Sibari** - *Trabajo MongoDB y Visual Studio Code* - [GarciaSibariAlex](https://github.com/GarciaSibariAlex)
+* **Alex García Sibari 1ºDAM** - *Trabajo MongoDB y Visual Studio Code* - [GarciaSibariAlex](https://github.com/GarciaSibariAlex)
 
